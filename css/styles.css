@@ -7,15 +7,12 @@ h1 {
   font-size: 33px;
   line-height: 2.5;
 }
+
 ul {
   color : #6a5c8c;
   font-family: cursive;
 }
 
 body {
-
-  color : black;
-  font-weight: bolder;
-  background-image: url(../img/insp.jpeg);
-  opacity: 0.5;
+  background-color: #9ea88b;
 }
